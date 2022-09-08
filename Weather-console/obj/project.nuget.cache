@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HWHwcLIzwlP20E8QaVioxKn8bWrOeoPI36i7duMBQNSzDF2i7LdAtjJI1d0Tou+OZfqU4EqLD+CnD6mtT7vUDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lawrence\\source\\repos\\lawrencedc\\Weather-Exam\\Weather-console\\Weather-console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lawrence\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
